@@ -1,5 +1,4 @@
 function diy_tools () {
-
         var diy__hostname = "arduino.os.cs.teiath.gr";
         this.https_url = "https://"+diy__hostname;
         this.wss_url = "wss://"+diy__hostname;
