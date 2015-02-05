@@ -13,7 +13,7 @@ function diy_tools () {
         
         //declare plot engine
         this.plotengine = '';
-        this.timelinelist = true;
+        this.timelinelist = 0;
         
         //array with timestamp, array with time in seconds, counter
         //currenttime and currenty are the last timestamp and last measurement
